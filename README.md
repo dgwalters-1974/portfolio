@@ -1,4 +1,4 @@
-# [Streamlit app for detecting outliers in interest rate swaps / fra data] (xxx)
+# [Streamlit app for detecting outliers in interest rate swaps / fra data] (https://github.com/dgwalters-1974/Streamlit_outliers)
 
 Daily financial time series data investigated for outliers with a selection of unsupervised learning algorithms. The nature of the problem dictates that the number of
 anomalous points is governed by a contamination rate set by the user and determined by domain specific factors. Algorithms investigated include K=nearest neighbours,
