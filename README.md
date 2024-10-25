@@ -8,5 +8,5 @@ K=nearest neighbours, Isolation Forest, Mahalanobis distance and Support Vector 
 * All models are trialled with default parameters for an overview of how they perform on the highly correlated data
 * Streamlit app built to run models on new data sets / for other currencies 
 
-[!logo](https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/download.png?raw=true)
+![chart](https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/download.png?raw=true)
 
