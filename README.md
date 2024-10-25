@@ -1,5 +1,5 @@
-# [Streamlit app for detecting outliers in interest rate swaps / fra data](https://github.com/dgwalters-1974/Streamlit_outliers)
-Investigating outliers in daily financial time series data with a selection of unsupervised learning algorithms. This toy dataset is a subset of the much larger one
+# [Detecting outliers in interest rate swap / fra data](https://github.com/dgwalters-1974/Streamlit_outliers)
+Finding outliers in daily financial time series data with a selection of unsupervised learning algorithms. This toy dataset is a subset of the much larger one
 used in practice, the nature of which makes it prone to human error when entries are recorded. The goal here is to establish a threshold which strikes a balance between
 highlighting anomalous points whilst not triggering warnings on a daily basis as each investigation is costly in terms of time and effort. The nature of the problem
 dictates that the number of positives is governed by a contamination rate set by the user and determined by domain specific factors. Algorithms investigated include
@@ -10,3 +10,5 @@ K=nearest neighbours, Isolation Forest, Mahalanobis distance and Support Vector 
 
 ![chart](https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/download.png?raw=true)
 
+# [Just basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
+This repository is intended as an introduction to machine learning for a curious 16yr old with little knowledge of the subject but good technical foundations and basic computer science. The idea was to follow the original perceptron algorithm as closely as possible while highlighting the similarities it has with e.g. linear regression and its significance as a gateway to neural networks and deep learning.
