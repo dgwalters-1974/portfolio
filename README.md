@@ -12,3 +12,4 @@ K=nearest neighbours, Isolation Forest, Mahalanobis distance and Support Vector 
 
 # [Just basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
 This repository is intended as an introduction to machine learning for a curious 16yr old with little knowledge of the subject but good technical foundations and basic computer science. The idea was to follow the original perceptron algorithm as closely as possible while highlighting the similarities it has with e.g. linear regression and its significance as a gateway to neural networks and deep learning.
+![perceptron model diagram](https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/The-Perceptron-model.png?raw=true)
