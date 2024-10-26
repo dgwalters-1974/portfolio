@@ -17,7 +17,9 @@ regression and its significance as a gateway to neural networks and deep learnin
 ![perceptron model diagram](https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/The-Perceptron-model.png?raw=true)
 
 # [Tennis match prediction using some simple data analysis and old school ML](https://github.com/dgwalters-1974/jup_notebook/)
+
 ![tennis imagel diagram](https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/fed-gates.jpg)
+
 Data from the Tennis Abstract website was cleaned, preprocessed and expanded upon a starting point for match prediction. Ranking methods were explored as an
 alternative to the ATP points system in order to address some of its shortcomings and then various classification algorithms were trained on the data and the results
 compared. We found that...
