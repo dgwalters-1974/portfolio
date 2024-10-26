@@ -1,4 +1,4 @@
-# [Detecting outliers in interest rate swap / fra data](https://github.com/dgwalters-1974/Streamlit_outliers)
+# [Outlier detection in financial market data](https://github.com/dgwalters-1974/Streamlit_outliers)
 Finding outliers in daily financial time series data with a selection of unsupervised learning algorithms. This toy dataset is a subset of the much larger one
 used in practice, the nature of which makes it prone to human error when entries are recorded. The goal here is to establish a threshold which strikes a balance between
 highlighting anomalous points whilst not triggering warnings on a daily basis as each investigation is costly in terms of time and effort. The nature of the problem
