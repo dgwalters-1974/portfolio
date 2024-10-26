@@ -6,8 +6,10 @@ dictates that the number of positives is governed by a contamination rate set by
 K=nearest neighbours, Isolation Forest, Mahalanobis distance and Support Vector Machines.
 * Packages: Python , Matplotlib, Numpy, Pandas, Streamlit
 * All models are trialled with default parameters for an overview of how they perform on the highly correlated data
-* Streamlit app built to run models on new data sets / for other currencies 
+* Streamlit app built to run models on new data sets / for other currencies
+
 <img align="right"[ src="doc/subpagelist.png](https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/download.png?raw=true)">
+
 ![chart](https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/download.png?raw=true)
 
 # [Just basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
