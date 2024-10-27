@@ -32,5 +32,5 @@ compared. We found that... This repo started life as a university project writte
 
 #<img align="right" src="https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/nadal.jpg" width="450" height="300" alt="My Image">
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="30" />
           
