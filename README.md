@@ -1,7 +1,6 @@
 # [Outlier detection in financial market data](https://github.com/dgwalters-1974/Streamlit_outliers)
 
-<img align="left" src="https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/chart_new.png?raw=true" width="300" height="300" alt="My Image">
-
+<img align="left" src="https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/chart_new.png?raw=true" width="400" height="300" alt="My Image">
 
 Finding outliers in daily financial time series data with a selection of unsupervised learning algorithms. This toy dataset is a subset of the much larger one
 used in practice, the nature of which makes it prone to human error when entries are recorded. The goal here is to establish a threshold which strikes a balance between highlighting anomalous points whilst not triggering warnings on a daily basis as each investigation is costly in terms of time and effort. The nature of the problem dictates that the number of positives is governed by a contamination rate set by the user and determined by domain specific factors. Algorithms investigated include K=nearest neighbours, Isolation Forest, Mahalanobis distance and Support Vector Machines.
@@ -9,13 +8,13 @@ used in practice, the nature of which makes it prone to human error when entries
 * All models are trialled with default parameters for an overview of how they perform on the highly correlated data
 * Streamlit app built to run models on new data sets / for other currencies
 
-# [Just basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
+# [Machine Learning 101: Basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
 This repository is intended as an introduction to machine learning for a curious 16yr old with little knowledge of the subject but good technical foundations and
 basic computer science. The idea was to follow the original perceptron algorithm as closely as possible while highlighting the similarities it has with e.g. linear
 regression and its significance as a gateway to neural networks and deep learning.
 ![perceptron model diagram](https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/The-Perceptron-model.png?raw=true)
 
-# [Tennis match prediction using some simple data analysis and old school ML](https://github.com/dgwalters-1974/jup_notebook/)
+# [Anyone for tennis? Match prediction using some simple data analysis and old school ML](https://github.com/dgwalters-1974/jup_notebook/)
 
 ![tennis imagel diagram](https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/chart_new.png?raw=true)
 
