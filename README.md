@@ -10,7 +10,7 @@ K=nearest neighbours, Isolation Forest, Mahalanobis distance and Support Vector 
 
 <img align="left" src="https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/download.png?raw=true" alt="My Image">
 
-![chart](https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/download.png?raw=true)
+![chart](https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/chart_new.png?raw=true)
 
 # [Just basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
 This repository is intended as an introduction to machine learning for a curious 16yr old with little knowledge of the subject but good technical foundations and
@@ -20,7 +20,7 @@ regression and its significance as a gateway to neural networks and deep learnin
 
 # [Tennis match prediction using some simple data analysis and old school ML](https://github.com/dgwalters-1974/jup_notebook/)
 
-![tennis imagel diagram](https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/fed-gates.jpg)
+![tennis imagel diagram](https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/chart_new.png?raw=true)
 
 Data from the Tennis Abstract website was cleaned, preprocessed and expanded upon a starting point for match prediction. Ranking methods were explored as an
 alternative to the ATP points system in order to address some of its shortcomings and then various classification algorithms were trained on the data and the results
