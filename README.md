@@ -1,3 +1,9 @@
+<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css"></head>
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<i class="devicon-python-plain"></i>
+
+
 # [Outlier detection in financial market data](https://github.com/dgwalters-1974/Streamlit_outliers)
 
 Finding outliers in daily financial time series data with a selection of unsupervised learning algorithms. This toy dataset is a subset of the much larger one
