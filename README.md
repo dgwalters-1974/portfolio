@@ -8,9 +8,9 @@ K=nearest neighbours, Isolation Forest, Mahalanobis distance and Support Vector 
 * All models are trialled with default parameters for an overview of how they perform on the highly correlated data
 * Streamlit app built to run models on new data sets / for other currencies
 
-<img align="left" src="https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/download.png?raw=true" alt="My Image">
+<img align="left" src="https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/chart_new.png?raw=true" alt="My Image">
 
-![chart](https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/chart_new.png?raw=true)
+#![chart](https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/chart_new.png?raw=true)
 
 # [Just basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
 This repository is intended as an introduction to machine learning for a curious 16yr old with little knowledge of the subject but good technical foundations and
