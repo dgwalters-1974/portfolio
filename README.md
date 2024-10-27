@@ -1,8 +1,3 @@
-<head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css"></head>
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<i class="devicon-python-plain"></i>
-
 
 # [Outlier detection in financial market data](https://github.com/dgwalters-1974/Streamlit_outliers)
 
@@ -36,3 +31,6 @@ compared. We found that... This repo started life as a university project writte
 #<img align="right" src="https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/The-Perceptron-model.png?raw=true" width="400" height="200" alt="My Image">
 
 #<img align="right" src="https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/nadal.jpg" width="450" height="300" alt="My Image">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
