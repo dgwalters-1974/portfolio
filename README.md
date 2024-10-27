@@ -23,6 +23,8 @@ compared. We found that... This repo started life as a university project writte
 
 * Packages: Python , Matplotlib, Numpy, Pandas, Scikit Learn
 
+  <i class="devicon-devicon-plain"></i>
+
 <img align="right" src="https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/chart_new.png?raw=true" width="400" height="300" alt="My Image">
 
 #<img align="right" src="https://github.com/dgwalters-1974/portfolio_site/blob/main/docs/assets/images/The-Perceptron-model.png?raw=true" width="400" height="200" alt="My Image">
