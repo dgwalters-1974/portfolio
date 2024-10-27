@@ -26,8 +26,17 @@ compared. We found that... This repo started life as a university project writte
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" />
-          
+
+
+<table>
+  <tr>
+  <td>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" />          
+  </td>
+  </tr>
+</table>
 
 <img align="right" src="https://github.com/dgwalters-1974/portfolio/blob/main/docs/assets/images/chart_new.png?raw=true" width="400" height="300" alt="My Image">
 
