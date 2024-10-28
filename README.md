@@ -44,11 +44,12 @@ This repository is an introduction to ML for a curious 16yr old.  Designed for a
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
-  <br />
+<br />
+<br />
 Data from the Tennis Abstract website was cleaned, preprocessed and expanded upon to build a dataset suitable for match prediction. Various ranking methods were  explored to address some of the shortcomings of the ATP points system. 
 <br />
 <br />
-# [Anyone for tennis 2? Match prediction using some simple data analysis and old school ML (https://github.com/dgwalters-1974/pytorch-lr)
+# [Anyone for tennis 2? Match prediction using some simple data analysis and old school ML](https://github.com/dgwalters-1974/pytorch-lr)
 <br />
 <br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
