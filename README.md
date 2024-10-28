@@ -1,6 +1,7 @@
 
 # [Outlier detection in financial market data](https://github.com/dgwalters-1974/Streamlit_outliers)
 <br />
+<br />
 	<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -17,7 +18,8 @@ Finding outliers in daily financial time series data with a selection of unsuper
 <br />
 # [Machine Learning 101: Basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
 <br />
-	<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
+<br />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
@@ -25,14 +27,14 @@ Finding outliers in daily financial time series data with a selection of unsuper
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-  <br />
-  This repository is an introduction to ML for a curious 16yr old.  Designed for an audience with little knowledge of the subject but good technical foundations andan
-  understanding of basic computer science, the idea was to follow the original perceptron algorithm as closely as possible while highlighting the similarities it has
-  with e.g. linear regression and its significance as a gateway to neural networks and deep learning.
-  <br />
-  <br />
+<br />
+<br />
+This repository is an introduction to ML for a curious 16yr old.  Designed for an audience with little knowledge of the subject but good technical foundations and an understanding of basic computer science, the idea was to follow the original perceptron algorithm as closely as possible while highlighting the similarities it has with e.g. linear regression and its significance as a gateway to neural networks and deep learning.
+<br />
+<br />
 
 # [Anyone for tennis 1? Data engineering a popular sports website](https://github.com/dgwalters-1974/jup_notebook/)
+<br />
 <br />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
@@ -43,12 +45,12 @@ Finding outliers in daily financial time series data with a selection of unsuper
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
   <br />
-  Data from the Tennis Abstract website was cleaned, preprocessed and expanded upon to build a dataset suitable for match prediction. Various ranking methods were
-  explored to address some of the shortcomings of the ATP points system. 
-  <br />
-  <br />
-  # [Anyone for tennis 2? Match prediction using some simple data analysis and old school ML](https://github.com/dgwalters-1974/pytorch-lr)
-  <br />
+Data from the Tennis Abstract website was cleaned, preprocessed and expanded upon to build a dataset suitable for match prediction. Various ranking methods were  explored to address some of the shortcomings of the ATP points system. 
+<br />
+<br />
+# [Anyone for tennis 2? Match prediction using some simple data analysis and old school ML (https://github.com/dgwalters-1974/pytorch-lr)
+<br />
+<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -59,7 +61,6 @@ Finding outliers in daily financial time series data with a selection of unsuper
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-  <br />
-  Various classification algorithms were trained on the previously constructed dataset and the results compared. We found that... This repo started life as a
-  university project written in R but has undergone several iterations and the version posted here has extended that work in Python with the creation of new features,
-  more classification algorithms and more accurate results.         
+<br />
+<br />
+Various classification algorithms were trained on the previously constructed dataset and the results compared. We found that... This repo started life as a university project written in R but has undergone several iterations and the version posted here has extended that work in Python with the creation of new features, more classification algorithms and more accurate results.         
