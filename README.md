@@ -1,4 +1,4 @@
-<table border="0">
+<table border="O">
   <tr>
   <td>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
