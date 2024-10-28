@@ -17,10 +17,10 @@ Finding outliers in daily financial time series data with a selection of unsuper
 
 * All models are trialled with default parameters for an overview of how they perform on the highly correlated data
 * Streamlit app built to run models on new data sets / for other currencies
- <br />
-  <br />
+<br />
+<br />
 # [Machine Learning 101: Basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
-
+<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -36,7 +36,7 @@ This repository is an introduction to ML for a curious 16yr old.  Designed for a
 <br />
 
 # [Anyone for tennis? Match prediction using some simple data analysis and old school ML](https://github.com/dgwalters-1974/jup_notebook/)
-
+,br />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
