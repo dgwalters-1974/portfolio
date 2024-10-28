@@ -1,6 +1,6 @@
 
 # [Outlier detection in financial market data](https://github.com/dgwalters-1974/Streamlit_outliers)
-
+<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -10,6 +10,7 @@
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
    <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
+ <br />
  <br />
 
 Finding outliers in daily financial time series data with a selection of unsupervised learning algorithms. This toy dataset is a subset of the much larger oneused in practice, the nature of which makes it prone to human error when entries are recorded. The goal here is to establish a threshold which strikes a balance between highlighting anomalous points whilst not triggering warnings on a daily basis as each investigation is costly in terms of time and effort. The nature of the problem dictates that the number of positives is governed by a contamination rate set by the user and determined by domain specific factors. Algorithms investigated include K=nearest neighbours, Isolation Forest, Mahalanobis distance and Support Vector Machines.
