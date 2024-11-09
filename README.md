@@ -48,8 +48,7 @@ Data from the Tennis Abstract website was cleaned, preprocessed and expanded upo
 <br />
 <br />
 
-# [Anomaly detection with an autoencoder](https://github.com/dgwalters-1974/autoencoder)
-<br />         
+# [Anomaly detection with an autoencoder](https://github.com/dgwalters-1974/autoencoder)<br />         
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
