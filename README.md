@@ -49,6 +49,23 @@ This repository is an introduction to ML for a curious teenager.  Designed for a
 Data from the Tennis Abstract website was cleaned, preprocessed and expanded upon to build a dataset suitable for match prediction. Various ranking methods were  explored to address some of the shortcomings of the ATP points system. 
 <br />
 <br />
+
+# [Anyone for Tennis Part 2: Match prediction using old school ML](https://github.com/dgwalters-1974/pytorch-lr)
+<br />
+<br />          
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+<br />
+<br />
+Detecting outliers with an autoencoder. Tabular dataset with multiple correlations and over 70 features was analysed for anomalous points as part of a project on financial data. The encoder was then used to reduce the dimensionality of the dataset so that a visual representation can be explored in 2d and clusters within the structure of the data investigated.
+
 # [Anyone for Tennis Part 2: Match prediction using old school ML](https://github.com/dgwalters-1974/pytorch-lr)
 <br />
 <br />
