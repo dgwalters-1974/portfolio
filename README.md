@@ -2,7 +2,7 @@
 # [Outlier detection in financial market data](https://github.com/dgwalters-1974/Streamlit_outliers)
 <br />
 <br />
-	<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
@@ -16,6 +16,7 @@
 Finding outliers in daily financial time series data with a selection of unsupervised learning algorithms. This toy dataset is a subset of the much larger one used in practice, the nature of which makes it prone to human error when entries are recorded. The goal is to establish a threshold which strikes a balance between highlighting anomalous points whilst not triggering unnecesarry warnings as each investigation is costly in terms of time and effort. The nature of the problem dictates that the number of positives is governed by a contamination rate set by the user and determined by domain specific factors. Algorithms investigated include K-nearest neighbours, Isolation Forest, Mahalanobis distance and Support Vector Machines. A streamlit app was built to showcase the analysis.
 <br />
 <br />
+
 # [Machine Learning 101: Basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
 <br />
 <br />
@@ -39,18 +40,18 @@ This repository is an introduction to ML for a curious teenager.  Designed for a
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
 <br />
 <br />
 Data from the Tennis Abstract website was cleaned, preprocessed and expanded upon to build a dataset suitable for match prediction. Various ranking methods were  explored to address some of the shortcomings of the ATP points system. 
 <br />
 <br />
 
-# [Anyone for Tennis Part 2: Match prediction using old school ML](https://github.com/dgwalters-1974/pytorch-lr)
+# [Anomaly detection with an autoencoder](https://github.com/dgwalters-1974/autoencoder)
 <br />
 <br />          
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"/>
