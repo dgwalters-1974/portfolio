@@ -1,7 +1,6 @@
 
 # [Outlier detection in financial market data](https://github.com/dgwalters-1974/Streamlit_outliers)
 <br />
-<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -19,7 +18,6 @@ Finding outliers in daily financial time series data with a selection of unsuper
 
 # [Machine Learning 101: Basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
 <br />
-<br />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -36,7 +34,6 @@ This repository is an introduction to ML for a curious teenager.  Designed for a
 
 # [Anyone for Tennis Part 1: Data engineering a popular sports website](https://github.com/dgwalters-1974/jup_notebook/)
 <br />
-<br />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -52,8 +49,7 @@ Data from the Tennis Abstract website was cleaned, preprocessed and expanded upo
 <br />
 
 # [Anomaly detection with an autoencoder](https://github.com/dgwalters-1974/autoencoder)
-<br />
-<br />          
+<br />         
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
@@ -66,9 +62,10 @@ Data from the Tennis Abstract website was cleaned, preprocessed and expanded upo
 <br />
 <br />
 Detecting outliers with an autoencoder. Tabular dataset with multiple correlations and over 70 features was analysed for anomalous points as part of a project on financial data. The encoder was then used to reduce the dimensionality of the dataset so that a visual representation can be explored in 2d and clusters within the structure of the data investigated.
+<br />
+<br />
 
 # [Anyone for Tennis Part 2: Match prediction using old school ML](https://github.com/dgwalters-1974/pytorch-lr)
-<br />
 <br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
