@@ -33,7 +33,7 @@ This repository is an introduction to ML for a curious teenager.  Designed for a
 <br />
 <br />
 
-# [Anyone for Tennis Part 1? Data engineering a popular sports website](https://github.com/dgwalters-1974/jup_notebook/)
+# [Anyone for Tennis Part 1: Data engineering a popular sports website](https://github.com/dgwalters-1974/jup_notebook/)
 <br />
 <br />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
@@ -49,7 +49,7 @@ This repository is an introduction to ML for a curious teenager.  Designed for a
 Data from the Tennis Abstract website was cleaned, preprocessed and expanded upon to build a dataset suitable for match prediction. Various ranking methods were  explored to address some of the shortcomings of the ATP points system. 
 <br />
 <br />
-# [Anyone for Tennis Part 2? Match prediction using old school ML](https://github.com/dgwalters-1974/pytorch-lr)
+# [Anyone for Tennis Part 2: Match prediction using old school ML](https://github.com/dgwalters-1974/pytorch-lr)
 <br />
 <br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
