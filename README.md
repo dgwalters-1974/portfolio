@@ -1,5 +1,5 @@
 
-# [Outlier detection in financial market data](https://github.com/dgwalters-1974/Streamlit_outliers)
+## [Outlier detection in financial market data](https://github.com/dgwalters-1974/Streamlit_outliers)
 <br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
@@ -16,7 +16,7 @@ Finding outliers in daily financial time series data with a selection of unsuper
 <br />
 <br />
 
-# [Machine Learning 101: Basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
+## [Machine Learning 101: Basic perceptron and some made up data](https://github.com/dgwalters-1974/perceptron_fun)
 <br />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
@@ -32,7 +32,7 @@ This repository is an introduction to ML for a curious teenager.  Designed for a
 <br />
 <br />
 
-# [Anyone for Tennis Part 1: Data engineering a popular sports website](https://github.com/dgwalters-1974/jup_notebook/)
+## [Anyone for Tennis Part 1: Data engineering a popular sports website](https://github.com/dgwalters-1974/jup_notebook/)
 <br />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
@@ -48,7 +48,7 @@ Data from the Tennis Abstract website was cleaned, preprocessed and expanded upo
 <br />
 <br />
 
-# [Anomaly detection with an autoencoder](https://github.com/dgwalters-1974/autoencoder)<br />         
+## [Anomaly detection with an autoencoder](https://github.com/dgwalters-1974/autoencoder)<br />         
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
@@ -64,7 +64,7 @@ Detecting outliers with an autoencoder. Tabular dataset with multiple correlatio
 <br />
 <br />
 
-# [Anyone for Tennis Part 2: Match prediction using old school ML](https://github.com/dgwalters-1974/pytorch-lr)
+## [Anyone for Tennis Part 2: Match prediction using old school ML](https://github.com/dgwalters-1974/pytorch-lr)
 <br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
