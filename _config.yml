@@ -1,5 +1,5 @@
 title: DGW
-#logo: image relative path
+logo: assets/images/boom.png
 description: text below image
 theme: jekyll-theme-minimal
 show_downloads: true
