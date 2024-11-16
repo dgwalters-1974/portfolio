@@ -89,7 +89,7 @@ A variety of classification algorithms were trained on a tennis dataset and the 
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;"
-src="/assets/images/huggingface.png"/>
+src="https://github.com/dgwalters-1974/portfolio/blob/main/assets/images/huggingface.png"/>
   <img align="left" width="30px" style="padding-right:10px;" 
 src="https://huggingface.co/datasets/huggingface/brand-assets/blob/main/hf-logo.svg"/>
 <br />
