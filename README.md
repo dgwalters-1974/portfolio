@@ -1,5 +1,5 @@
 
-## [Unsupervised outlier detection deployed with Streamlit](https://github.com/dgwalters-1974/Streamlit_outliers)<br />
+## [Unsupervised outlier detection](https://github.com/dgwalters-1974/Streamlit_outliers)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -15,7 +15,7 @@ Multivariate tabular data cleaned, pre-processed and then analysed to highlight 
 <br />
 <br />
 
-## [Perceptron algorithm in Pytorch with user-generated data](https://github.com/dgwalters-1974/perceptron_fun)<br />
+## [Perceptron algorithm](https://github.com/dgwalters-1974/perceptron_fun)<br />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -26,7 +26,7 @@ Multivariate tabular data cleaned, pre-processed and then analysed to highlight 
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
 <br />
 <br />
-Designed for an audience with little knowledge of the subject but good technical foundations and an understanding of basic computer science, the idea was to follow the original perceptron algorithm as closely as possible, while highlighting the similarities logistic regression and its significance as a gateway to neural networks and deep learning.
+Built with Pytorch, this is an introduction to ML for an someone with little knowledge of the subject but good technical foundations and an understanding of basic computer science. The idea was to follow the original perceptron algorithm as closely as possible, highlighting the similarities logistic regression and its significance as a gateway to neural networks and deep learning.
 <br />
 <br />
 
@@ -61,7 +61,7 @@ Tabular dataset with multiple correlations and over 70 features was analysed for
 <br />
 <br />
 
-## [Match prediction using ML classification methods](https://github.com/dgwalters-1974/pytorch-lr)<br />
+## [Match prediction using ML classification](https://github.com/dgwalters-1974/pytorch-lr)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
