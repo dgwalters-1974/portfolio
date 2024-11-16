@@ -56,7 +56,7 @@ Data from the Tennis Abstract website was cleaned, preprocessed and expanded upo
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;
-src="assets/images/Google_Colaboratory_SVG_Logo.svg.png"/>
+src="https://github.com/dgwalters-1974/portfolio/blob/main/assets/images/Google_Colaboratory_SVG_Logo.svg.pngg"/>
 
 <br />
 <br />
