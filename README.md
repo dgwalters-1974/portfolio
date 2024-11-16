@@ -87,7 +87,7 @@ A variety of classification algorithms were trained on a tennis dataset and the 
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://github.com/dgwalters-1974/portfolio/blob/main/assets/images/huggingface.png"/>
 <br />
 <br />
 A dataset of tweets and labels was loaded and preprocessed in order to fine tune a Huggingface model (tiny-BERT). The resulting model was saved to an AWS S3 instance and made available to a Streamlit app which could then be used for classification of new unseen tweets. This method follows that given in the 2025 Deploy ML Model in Production with FastAPI and Docker course by Laxmi Kant.
