@@ -74,4 +74,20 @@ Tabular dataset with multiple correlations and over 70 features was analysed for
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
 <br />
 <br />
-A variety of classification algorithms were trained on a tennis dataset and the results compared. This repo started life as a university project written in R but has undergone several iterations and the version posted here has extended that work in Python with the creation of new features, more classification algorithms and ultimately more accurate results.         
+A variety of classification algorithms were trained on a tennis dataset and the results compared. This repo started life as a university project written in R but has undergone several iterations and the version posted here has extended that work in Python with the creation of new features, more classification algorithms and ultimately more accurate results. 
+
+## [Tweet classification using tiny-BERT](https://github.com/dgwalters-1974/TWEET-CLASSIFICATION-APP)<br />
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+<br />
+<br />
+A dataset of tweets and labels was loaded and preprocessed in order to fine tune a Huggingface model (tiny-BERT). The resulting model was saved to an AWS S3 instance and made available to a Streamlit app which could then be used for classification of new unseen tweets. This method follows that given in the 2025 Deploy ML Model in Production with FastAPI and Docker course by Laxmi Kant.
