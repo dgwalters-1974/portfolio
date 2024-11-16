@@ -55,6 +55,8 @@ Data from the Tennis Abstract website was cleaned, preprocessed and expanded upo
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src=""/>
+
 <br />
 <br />
 Tabular dataset with multiple correlations and over 70 features was analysed for anomalous points as part of a project on financial data. The encoder was then used to reduce the dimensionality of the dataset so that a visual representation can be explored in 2d and clusters within the structure of the data investigated.
