@@ -46,7 +46,7 @@ Data from the Tennis Abstract website was cleaned, preprocessed and expanded upo
 <br />
 
 ## [Anomaly detection with an autoencoder in Pytorch](https://github.com/dgwalters-1974/autoencoder)<br />         
-  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="assets/images/colab.png"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
@@ -55,10 +55,7 @@ Data from the Tennis Abstract website was cleaned, preprocessed and expanded upo
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img align="left" width="30px" style="padding-right:10px;"
-src="assets/images/colab.png"/>
- <img align="left" width="30px" style="padding-right:10px;" 
-src="assets/images/huggingface.png"/>  
+ <img align="left" width="30px" style="padding-right:10px;"  src="assets/images/huggingface.png"/>  
 
 <br />
 <br />
