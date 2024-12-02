@@ -1,5 +1,5 @@
 <div style="display: inline-block; background-color: white; border-radius: 5px; padding: 0px;">
- <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/</div>
+ <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/></div>
 
 
 ## [outlier detection](https://github.com/dgwalters-1974/Streamlit_outliers)<br />
