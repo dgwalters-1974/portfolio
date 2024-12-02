@@ -25,7 +25,7 @@ Multivariate tabular data cleaned, pre-processed and then analysed to highlight 
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
 <br />
 <br />
-Built with Pytorch, this is an introduction to ML for an someone with little knowledge of the subject but good technical foundations and an understanding of basic computer science. The idea was to follow the original perceptron algorithm as closely as possible, highlighting the similarities logistic regression and its significance as a gateway to neural networks and deep learning.
+A working Pytorch autoencoder which was built to show how the training process converges on a line that seperates two classes. 
 <br />
 <br />
 
