@@ -1,5 +1,5 @@
 title: DGW
 logo: https://github.com/dgwalters-1974/portfolio/blob/main/assets/images/logo-ai.png?raw=true
 description: A portfolio of ML projects that were undertaken to learn the methods, implementation and deployment of machine learning.
-theme: jekyll-theme-minimal
-show_downloads: true
+theme: jekyll-theme-hacker
+show_downloads: false
