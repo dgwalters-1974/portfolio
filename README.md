@@ -74,7 +74,7 @@ Highly correlated dataset with with over 70 features was analysed for anomalous 
 <br />
 A neural network trained to predict the winner of a tennis match. This repo started life as a university project written in R but has undergone several iterations and the version posted here has extended that work in Python with the creation of new features, a more 'modern' classification algorithm and in terms of accuracy, better results. 
 
-## [tiny-BERT](https://github.com/dgwalters-1974/TWEET-CLASSIFICATION)<br />
+## [tiny-BERT](https://github.com/dgwalters-1974/bert)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -87,7 +87,7 @@ src="assets/images/huggingface.png"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
 <br />
 <br />
-A smaller version of the BERT model was fine tuned on a dataset of tweets and labels. Huggingface's libraries were used for tokenization and pre-processing. The model was trained for 5 epochs and then saved and uploaded to an AWS S3 bucket and then made available with FastAPI. (see TWEET-CLASSIFICATION-APP repo for deployment via a Streamlit app).
+A smaller version of the BERT model was fine tuned on a dataset of tweets and labels. Huggingface's libraries were used for tokenization and pre-processing. The model was trained for 5 epochs and then saved and uploaded to an AWS S3 bucket and made available with FastAPI.
 
 ## [deployment](https://github.com/dgwalters-1974/TWEET-CLASSIFICATION-APP)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
@@ -102,4 +102,4 @@ src="assets/images/huggingface.png"/>
   <img align="left" width="30px" style="padding-right:10px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <br />
 <br />
-Huggingface model (tiny-BERT) saved to an AWS S3 instance and made available to a Streamlit app which can be used for classification of new unseen tweets. This method follows that given in the 2025 Deploy ML Model in Production with FastAPI and Docker course by Laxmi Kant.
+Huggingface model (tiny-BERT) saved to an AWS S3 instance and made available to a Streamlit app which can be used for classification of new unseen tweets.
