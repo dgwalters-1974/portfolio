@@ -1,5 +1,5 @@
 
-<h><link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /></h>
+<h><link rel="stylesheet" type='text/css' align="left" width="30px" style="padding-right:10px;"href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /></h>
 
           
 ## [outlier detection](https://github.com/dgwalters-1974/Streamlit_outliers)<br/>
