@@ -1,10 +1,10 @@
 
-<h><link rel="stylesheet" type='text/css' align="left" width="30px" style="padding-right:10px;"href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /></h>
+<h><link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /></h>
 
           
 ## [outlier detection](https://github.com/dgwalters-1974/Streamlit_outliers)<br/>
 
-  <i class="devicon-pandas-plain-wordmark"></i>
+  <i align="left" width="30px" style="padding-right:10px;" class="devicon-pandas-plain-wordmark"></i>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
