@@ -1,5 +1,5 @@
 
-## [Outlier detection](https://github.com/dgwalters-1974/Streamlit_outliers)<br />
+## [outlier detection](https://github.com/dgwalters-1974/Streamlit_outliers)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
@@ -15,7 +15,7 @@ Multivariate tabular data cleaned, pre-processed and then analysed to highlight 
 <br />
 <br />
 
-## [Perceptron algorithm](https://github.com/dgwalters-1974/perceptron_fun)<br />
+## [perceptron](https://github.com/dgwalters-1974/perceptron_fun)<br />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -30,7 +30,7 @@ Built with Pytorch, this is an introduction to ML for an someone with little kno
 <br />
 <br />
 
-## [Building a dataset for sports prediction](https://github.com/dgwalters-1974/jup_notebook/)<br />
+## [data wrangling](https://github.com/dgwalters-1974/jup_notebook/)<br />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -45,7 +45,7 @@ Data from the Tennis Abstract website was cleaned, preprocessed and expanded upo
 <br />
 <br />
 
-## [Anomaly detection with an autoencoder in Pytorch](https://github.com/dgwalters-1974/autoencoder)<br />         
+## [autoencoder](https://github.com/dgwalters-1974/autoencoder)<br />         
   <img align="left" width="30px" style="padding-right:10px;" src="assets/images/colab.png"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
@@ -63,7 +63,7 @@ Tabular dataset with multiple correlations and over 70 features was analysed for
 <br />
 <br />
 
-## [Match prediction using ML classification](https://github.com/dgwalters-1974/pytorch-lr)<br />
+## [binary classification](https://github.com/dgwalters-1974/pytorch-lr)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -78,7 +78,7 @@ Tabular dataset with multiple correlations and over 70 features was analysed for
 <br />
 A variety of classification algorithms were trained on a tennis dataset and the results compared. This repo started life as a university project written in R but has undergone several iterations and the version posted here has extended that work in Python with the creation of new features, more classification algorithms and ultimately more accurate results. 
 
-## [Tweet classification using tiny-BERT](https://github.com/dgwalters-1974/TWEET-CLASSIFICATION)<br />
+## [tiny-BERT](https://github.com/dgwalters-1974/TWEET-CLASSIFICATION)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -93,7 +93,7 @@ src="assets/images/huggingface.png"/>
 <br />
 A smaller version of the BERT model (tiny-BERT: https://huggingface.co/huawei-noah/TinyBERT_General_4L_312D, https://arxiv.org/pdf/1909.10351) was fine tuned on a dataset of tweets and labels. Huggingface's libraries were used for tokenization and pre-processing. The model was trained for 5 epochs and then saved and uploaded to an AWS S3 bucket and then made available with FastAPI. (see TWEET-CLASSIFICATION-APP repo for deployment via a Streamlit app).
 
-## [Deployment of tiny-BERT tweet classifier via Streamlit](https://github.com/dgwalters-1974/TWEET-CLASSIFICATION-APP)<br />
+## [deployment](https://github.com/dgwalters-1974/TWEET-CLASSIFICATION-APP)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
