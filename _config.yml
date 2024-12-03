@@ -6,7 +6,7 @@
 
 remote_theme: pages-themes/hacker@v0.2.0
 title: david gareth walters
-description: Learning the methods, implementation and deployment of machine learning models...
+description: Learning about machine learning...
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: "false"
