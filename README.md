@@ -53,7 +53,6 @@ Data from the Tennis Abstract website was cleaned, preprocessed and expanded upo
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
-
 <br />
 <br />
 Highly correlated dataset with with over 70 features was analysed for anomalous points as part of a project on financial data. The encoder was then used to reduce the dimensionality of the dataset so that a visual representation can be explored in 2d and clusters within the structure of the data investigated. Model deployment via a Streamlit app.
@@ -73,6 +72,8 @@ Highly correlated dataset with with over 70 features was analysed for anomalous 
 <br />
 <br />
 A neural network trained to predict the winner of a tennis match. This repo started life as a university project written in R but has undergone several iterations and the version posted here has extended that work in Python with the creation of new features, a more 'modern' classification algorithm and in terms of accuracy, better results. 
+<br />
+<br />
 
 ## [tiny-BERT](https://github.com/dgwalters-1974/bert)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
@@ -88,6 +89,8 @@ src="assets/images/huggingface.png"/>
 <br />
 <br />
 A smaller version of the BERT model was fine tuned on a dataset of tweets and labels. Huggingface's libraries were used for tokenization and pre-processing. The model was trained for 5 epochs and then saved and uploaded to an AWS S3 bucket and made available with FastAPI.
+<br />
+<br />
 
 ## [deployment](https://github.com/dgwalters-1974/TWEET-CLASSIFICATION-APP)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
@@ -103,6 +106,8 @@ src="assets/images/huggingface.png"/>
 <br />
 <br />
 Huggingface model (tiny-BERT) saved to an AWS S3 instance and made available to a Streamlit app which can be used for classification of new unseen tweets.
+<br />
+<br />
 
 ## [chatbot](https://github.com/dgwalters-1974/chatbot)<br />
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
@@ -116,5 +121,8 @@ src="assets/images/huggingface.png"/>
 src="assets/images/openai-white-logomark.png"/>
 <img align="left" width="30px" style="padding-right:10px;" 
 src="assets/images/idU5AOYJU9_logos.jpeg"/> 
+<br />
+<br />
+RAG chatbot deployed with streamlit that serves as an alternative to trawling through the pages of a pdf manual.
 <br />
 <br />
