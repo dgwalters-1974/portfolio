@@ -13,7 +13,7 @@
 
   <body>
 
-    <header>
+<!--     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1 style="color: #63c0f5;">{{ site.title | default: site.github.repository_name }}</h1>
@@ -22,7 +22,17 @@
 
         
       </div>
-    </header>
+    </header> -->
+
+   <header>
+  <div class="container" style="display: flex; align-items: center; justify-content: space-between;">
+    <a id="a-title" href="{{ '/' | relative_url }}" style="flex-grow: 1;">
+      <h1 style="color: #63c0f5; margin: 0;">{{ site.title | default: site.github.repository_name }}</h1>
+    </a>
+    <h2 style="margin: 0; flex-grow: 1;">{{ site.description | default: site.github.project_tagline }}</h2>
+    <img src="/path/to/your/image.png" alt="Header Image" style="height: 50px; margin-left: 20px;">
+  </div>
+</header>
 
     <div class="container">
       <section id="main_content">
