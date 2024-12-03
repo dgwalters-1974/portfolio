@@ -103,3 +103,18 @@ src="assets/images/huggingface.png"/>
 <br />
 <br />
 Huggingface model (tiny-BERT) saved to an AWS S3 instance and made available to a Streamlit app which can be used for classification of new unseen tweets.
+
+## [chatbot](https://github.com/dgwalters-1974/chatbot)<br />
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"/>
+  <img align="left" width="30px" style="padding-right:10px;" 
+src="assets/images/huggingface.png"/>
+<img align="left" width="30px" style="padding-right:10px;" 
+src="assets/images/openai-white-logomark.png"/>
+<img align="left" width="30px" style="padding-right:10px;" 
+src="assets/images/idU5AOYJU9_logos.jpeg"/> 
+<br />
+<br />
