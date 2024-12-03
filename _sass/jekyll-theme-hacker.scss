@@ -80,12 +80,13 @@ header h1 {
 header h1:before {
   content: "./ ";
   font-size: 24px;
+  color: #63c0f5;
 }
 
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #63c0f5;
+  color: #eaeaea;
 }
 
 #downloads .btn {
