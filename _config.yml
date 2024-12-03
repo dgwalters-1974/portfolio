@@ -5,8 +5,8 @@
 # show_downloads: false
 
 remote_theme: pages-themes/hacker@v0.2.0
-title: DGW
-description: A portfolio of projects to learn the methods, implementation and deployment of machine learning...
+title: david gareth walters
+description: Learning the methods, implementation and deployment of machine learning models...
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: "false"
