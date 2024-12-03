@@ -24,34 +24,43 @@
       </div>
     </header> -->
 
-   <header>
+   
+
+    <header>
   <div class="container" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
     <!-- Title aligned to the left -->
-    <a id="a-title" href="{{ '/' | relative_url }}" style="margin: 0;">
-      <h1 style="color: #63c0f5; margin: 0;">{{ site.title | default: site.github.repository_name }}</h1>
-     <h1 style="color: #63c0f5; margin: 0;"> portfolio</h1>
-     <img src="assets/images/robot.svg" alt="Header Image" style="height: 50px; margin-left: auto;">
-    </a>
-   <div style="margin-top: 0px;">
- 
-    <a href="https://github.com/dgwalters-1974" style="color: #63c0f5; text-decoration: none;">
-    <img align="left" width="40px" style="padding-right:12px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  </a>
-    <a href="mailto:dgwalters@me.com" style="color: #63c0f5; text-decoration: none; margin-right: 10px;">
-    <img align="left" width="40px" style="padding-left:12px; filter: brightness(0) invert(1);" src="assets/images/icons8-email-50.png"/>
-  </a>
-      
-
-</div>
-  </div>
-   
-   </br>
-  <!-- Subtitle below both title and image -->
-    <div class="container" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-    <h2 style="text-align: left; margin-top: 10px; margin-left: 0px;">{{ site.description | default: site.github.project_tagline }}</h2>
+    <div style="display: flex; align-items: center; flex-grow: 1;">
+      <a id="a-title" href="{{ '/' | relative_url }}" style="margin: 0; display: flex; align-items: center;">
+        <h1 style="color: #63c0f5; margin: 0;">{{ site.title | default: site.github.repository_name }}</h1>
+        <h1 style="color: #63c0f5; margin: 0; padding-left: 10px;">portfolio</h1>
+      </a>
+      <!-- Robot icons immediately after the title -->
+      <div style="display: flex; margin-left: 15px;">
+        <img src="assets/images/robot.svg" alt="Robot Icon" style="height: 50px;">
+        <img src="assets/images/robot.svg" alt="Robot Icon" style="height: 50px; margin-left: 5px;">
+        <img src="assets/images/robot.svg" alt="Robot Icon" style="height: 50px; margin-left: 5px;">
+      </div>
     </div>
-   </header>
 
+    <!-- Email and GitHub icons aligned to the right -->
+    <div style="display: flex; align-items: center; margin-left: auto;">
+      <a href="https://github.com/dgwalters-1974" style="color: #63c0f5; text-decoration: none;">
+        <img width="40px" style="margin-right: 12px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+      </a>
+      <a href="mailto:dgwalters@me.com" style="color: #63c0f5; text-decoration: none;">
+        <img width="40px" style="filter: brightness(0) invert(1);" src="assets/images/icons8-email-50.png" />
+      </a>
+    </div>
+  </div>
+
+  <!-- Subtitle below both title and icons -->
+  <div class="container" style="margin-top: 10px;">
+    <h2 style="text-align: left;">{{ site.description | default: site.github.project_tagline }}</h2>
+  </div>
+</header>
+
+
+   
 
     <div class="container">
       <section id="main_content">
