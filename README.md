@@ -25,7 +25,7 @@ Multivariate tabular data cleaned, pre-processed and then analysed to highlight 
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
 <br />
 <br />
-A working Pytorch autoencoder which was built to show how the training process converges on a line that seperates two classes. 
+A working Pytorch perceptron which was built to explore the training process and how it converges on a decision boundary between two classes. 
 <br />
 <br />
 
